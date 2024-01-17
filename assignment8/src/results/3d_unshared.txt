@@ -1,0 +1,14 @@
+Shared Tiled MFlops/s for (N*N=1): 0.000404026
+Shared Tiled MFlops/s for (N*N=4): 0.057632
+Shared Tiled MFlops/s for (N*N=16): 0.456564
+Shared Tiled MFlops/s for (N*N=64): 3.73078
+Shared Tiled MFlops/s for (N*N=256): 29.8292
+Shared Tiled MFlops/s for (N*N=1024): 249.261
+Shared Tiled MFlops/s for (N*N=4096): 1633.06
+Shared Tiled MFlops/s for (N*N=16384): 9451.32
+Shared Tiled MFlops/s for (N*N=65536): 18503.2
+Shared Tiled MFlops/s for (N*N=262144): 20709.1
+Shared Tiled MFlops/s for (N*N=1048576): 21007.1
+Shared Tiled MFlops/s for (N*N=4194304): 21066.9
+Shared Tiled MFlops/s for (N*N=16777216): 21075.1
+Shared Tiled MFlops/s for (N*N=67108864): 21091.7
